@@ -1,0 +1,26 @@
+
+CHAPTERS
+1. Demo
+2. Project Setup 
+3. page Layout
+4. Sidebar
+5. Right Side
+6. Sidebar
+7. Tweet Form
+8. Tweet Component
+9. Introduction to Firebase
+10.Setting Firebase 
+11.Rendering Firebase Data
+12.Authentication
+13.Post a new tweet
+14.Comments
+15.End
+
+
+
+
+for Authentication modals will be used 
+-full name
+- username
+- dp url
+- password
